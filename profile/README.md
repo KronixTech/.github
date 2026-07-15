@@ -1,14 +1,22 @@
-# 👋 Welcome to Kronix Tech
+<p align="center">
+  <img src="https://ik.imagekit.io/f3q9t3ufft/WhatsApp%20Image%202026-05-17%20at%201.30.52%20PM.jpeg" alt="Kronix Tech Banner" width="100%">
+</p>
 
-## 🚀 Pioneering Technology. Powering Business.
+<h1 align="center">👋 Welcome to Kronix Tech</h1>
 
-Kronix Tech is an AI-first technology company specializing in Enterprise Software, Artificial Intelligence, Cloud Computing, IoT, Cyber Security, and Digital Transformation.
+<h3 align="center">
+🚀 Pioneering Technology. Powering Business.
+</h3>
+
+<p align="center">
+Enterprise Software • Artificial Intelligence • Cloud Computing • IoT • Cyber Security • Product Engineering
+</p>
 
 ---
 
 ## 🌐 Website
 
-https://kronixtech.in
+🔗 https://kronixtech.in
 
 ---
 
@@ -28,35 +36,43 @@ https://kronixtech.in
 
 ## 💻 Technology Stack
 
-- React
-- Next.js
-- Node.js
-- Java
-- Spring Boot
-- Python
-- Docker
-- Kubernetes
-- PostgreSQL
-- MySQL
-- MongoDB
-- AWS
-- Azure
-- GitHub Actions
+- ⚛️ React
+- ▲ Next.js
+- 🟢 Node.js
+- ☕ Java
+- 🍃 Spring Boot
+- 🐍 Python
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🍃 MongoDB
+- ☁️ AWS
+- 🔷 Azure
+- 🚀 GitHub Actions
 
 ---
 
 ## 🎯 Mission
 
-Empowering businesses through intelligent software and innovative technology solutions.
+Empowering businesses through intelligent software, AI innovation, cloud technologies, and scalable enterprise solutions that accelerate digital transformation.
 
 ---
 
 ## 📫 Contact
 
-📧 ho@kronixtech.in
+📧 **Email:** ho@kronixtech.in
 
-🌍 https://kronixtech.in
+🌍 **Website:** https://kronixtech.in
+
+📍 **Location:** Chennai, Tamil Nadu, India
 
 ---
 
-⭐ Thank you for visiting Kronix Tech.
+<div align="center">
+
+### ⭐ Thank you for visiting Kronix Tech!
+
+**Building the Future with AI • Cloud • Innovation**
+
+</div>
